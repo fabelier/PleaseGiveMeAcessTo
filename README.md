@@ -21,10 +21,10 @@ Each footer, header, and message are shuffeling before sending.
 
 To run it as a daemon you could use forever
 
-  forever start PleaseGiveMeAccess.js
+    forever start PleaseGiveMeAccess.js
   
 ## Dependencies
 
 nodemailer, a simple mailer for node
 
-  npm install nodemailer 
+    npm install nodemailer 
